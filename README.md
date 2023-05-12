@@ -3,7 +3,7 @@
 To run this program, run `life.py` in your IDE of choice or the command line.
 To just generate a cellular automata rule, simply run `automata.py` instead.
 
-- Ensure that numpy and matplotlib packages are installed.
+- Ensure that `numpy` and `matplotlib` packages are installed.
 
 Current list of supported rules:
 
