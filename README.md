@@ -17,3 +17,11 @@ Current list of supported rules:
 - Rule 126
 - Rule 54
 - Rule 94
+- Rule 60
+- Rule 188
+- Rule 190
+- Rule 102
+- Rule 220
+- Rule 222
+- Rule 122
+- Rule 250
